@@ -29,10 +29,6 @@ This project applies **Data Cleaning, Data Wrangling, and Exploratory Data Analy
 ✔ Dropped irrelevant/unwanted columns  
 ✔ Fixed data type mismatches  
 
-🔹 **Data Wrangling**  
-✔ Filtered and grouped data for insights  
-✔ Created new meaningful features  
-
 🔹 **Exploratory Data Analysis (EDA)**  
 ✔ Visualized booking & cancellation trends  
 ✔ Analyzed ADR (Average Daily Rate) by status & hotel type  
@@ -63,3 +59,9 @@ This project applies **Data Cleaning, Data Wrangling, and Exploratory Data Analy
 ├── notebooks/ # Jupyter notebooks with code and analysis
 ├── report/ # Project report (PDF/DOCX/PPT)
 └── README.md # Project documentation
+
+## 🌐 Connect  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/virendra-kashyap-429b30247/)  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/virendraksp47) 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](virendrarex471@gmail.com)  
